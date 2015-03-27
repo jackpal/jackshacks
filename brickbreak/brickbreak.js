@@ -1,3 +1,5 @@
+// Copyright (C) 2009 John H. Palevich. All Rights Reserved.
+
 var livesPerGame = 3;
 
 var lives = 0;
